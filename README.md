@@ -3,7 +3,7 @@
 
 <h1 align="center">Mobile App Landing for GitHub Pages</h1>
 
-## Made for [NeonFrame.app](https://neonframe.app)
+## Made for [shotsyapp.com](https://shotsyapp.com)
 
 ### Based on the original [template created by Sandoche](https://github.com/sandoche/Mobile-app-landingpage-template) and adapted to use with GitHub Actions:
 ```
