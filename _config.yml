@@ -6,7 +6,7 @@
 title: Shotsy App
 email: foo@test.com
 description: Description of the app
-baseurl: "/shotsyapp.com" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://shotsy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#FF191C1D'
 twitter_username: false
