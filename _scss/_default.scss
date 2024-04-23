@@ -63,7 +63,6 @@ body {
   background-position-x: 20vw;
   background-position-y: -10vh;
   background-repeat: no-repeat;
-  line-height: 1.4;
 }
 
 main {
@@ -200,9 +199,10 @@ h1, h2 {
 
   &__description {
     font-size: $font-lg;
+    margin-bottom: 60px;
     @media (max-width: 768px) {
-      margin-top: 8px;
-      margin-bottom: 0;
+      margin-top: 10px;
+      margin-bottom: 20px;
     }
   }
 
@@ -240,24 +240,13 @@ h1, h2 {
     display: flex;
     flex-direction: row;
     align-items: center;
-    margin-left: -14px * 0.7;
 
     &--mobile {
       display: none;
     }
     
     @media (max-width: 768px) {
-      margin-left: 0;
-      margin-bottom: 64px;
-
-      &--mobile {
-        display: flex;
-        justify-content: center;
-      }
-
-      &--desktop {
-        display: none;
-      }      
+      margin-bottom: 64px;    
     }
   }
 
