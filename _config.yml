@@ -4,14 +4,14 @@
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
 title: Shotsy App
-email: foo@test.com
-description: Description of the app
+email: support@shotsyapp.com
+description: Weight loss shot tracker
 baseurl: "/shotsyapp.com" # the subpath of your site, e.g. /blog
 url: "https://shotsy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#FF191C1D'
 twitter_username: false
 github_username:  false
-author: Aja Beckett
+author: Everyday Language, LLC
 logo: assets/images/large-logo.png
 twitter:
   username: false

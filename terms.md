@@ -14,7 +14,6 @@ The Application stores and processes personal data that you have provided to the
 
 Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
 
-*   [Google Play Services](https://policies.google.com/terms)
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 *   [RevenueCat](https://www.revenuecat.com/terms)
 

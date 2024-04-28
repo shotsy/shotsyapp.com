@@ -1,14 +1,11 @@
 name: Shotsy
-description: Description of the app in a sentence
-full_description: 'Full description'
+description: Weight Loss Shot Tracker
+full_description: 'Version history'
 android: false
 iOS: http://www.google.com
 web: false
 screenshots:
   - 01-screenshot.png
-  - 02-screenshot.png
-  - 03-screenshot.png
-  - 04-screenshot.png
 producthunt: false
 #companies:
 #  - url: https://telegra.ph/Replace-this-link-07-23
