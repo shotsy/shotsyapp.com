@@ -1,8 +1,8 @@
 name: Shotsy
 description: Weight Loss Shot Tracker
-full_description: 'Version history'
+full_description: 'Welcome to Shotsy, your weekly weight loss shot tracker!\n\nThis app allows you to log your weekly shots, track side effects, and view estimated concentration levels for educational purposes. This app uses mathematical models (based on a field of study called pharmacokinetics) to estimate medication concentration from peer-reviewed scientific study data.\n\nWhile this provides a general idea of drug behavior over time, it is not specific to individual health profiles. Please consult with a healthcare professional before making any medical decisions.'
 android: false
-iOS: http://www.google.com
+iOS: https://apps.apple.com/us/app/shotsy-weight-loss-tracker/id6499510249
 web: false
 screenshots:
   - 01-screenshot.png

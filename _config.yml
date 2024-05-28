@@ -8,7 +8,7 @@ email: support@shotsyapp.com
 description: Weight loss shot tracker
 baseurl: "/shotsyapp.com" # the subpath of your site, e.g. /blog
 url: "https://shotsy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-theme_color: '#FF191C1D'
+theme_color: '#1eb7c5'
 twitter_username: false
 github_username:  false
 author: Everyday Language, LLC
