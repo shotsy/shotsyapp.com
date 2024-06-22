@@ -5,7 +5,7 @@
 
 title: Shotsy App
 email: support@shotsyapp.com
-description: Weight loss shot tracker
+description: Keep track of your GLP-1 shots
 baseurl: "/shotsyapp.com" # the subpath of your site, e.g. /blog
 url: "https://shotsy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#1eb7c5'

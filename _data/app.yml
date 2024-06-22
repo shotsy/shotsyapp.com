@@ -1,13 +1,15 @@
 name: Shotsy
-description: Weight Loss Shot Tracker
-full_description: 'Welcome to Shotsy, your weekly weight loss shot tracker!<br /><br />This app allows you to log your weekly shots, track side effects, and view estimated concentration levels for educational purposes. This app uses mathematical models (based on a field of study called pharmacokinetics) to estimate medication concentration from peer-reviewed scientific study data.<br /><br />While this provides a general idea of drug behavior over time, it is not specific to individual health profiles. Please consult with a healthcare professional before making any medical decisions.'
+description: Keep track of your weekly GLP-1 shots
+full_description: 'Welcome to Shotsy, your GLP-1 weight loss shot tracker!<br /><br />This app allows you to log your weekly shots, track side effects, and view estimated concentration levels for educational purposes. This app uses mathematical models (based on a field of study called pharmacokinetics) to estimate medication concentration from peer-reviewed scientific study data.<br /><br />While this provides a general idea of drug behavior over time, it is not specific to individual health profiles. Please consult with a healthcare professional before making any medical decisions.'
 android: false
 iOS: https://apps.apple.com/us/app/shotsy-weight-loss-tracker/id6499510249
 web: false
 screenshots:
-  - 01-screenshot.png
-  - 02-screenshot.png
-  - 03-screenshot.png
+  - 01Screen.png
+  - 02Screen.png
+  - 03Screen.png
+  - 04Screen.png
+  - 05Screen.png
 producthunt: false
 #companies:
 #  - url: https://telegra.ph/Replace-this-link-07-23
